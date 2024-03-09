@@ -1,22 +1,20 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
+    "name": "Anna B Mikkelsen",
+    "label": "Geospatial Analyst",
     "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "email": "abm20@hawaii.edu",
+    "website": "https://abmikkelsen.github.io",
+    "summary": "summary",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "abmikkelsen", "url": "http://github.com/abmikkelsen" },
+      { "network": "linkedin", "username": "Anna Mikkelsen", "url": "www.linkedin.com/in/anna-mikkelsen-5822517b" },
+      { "network": "instagram", "username": "abmikkelsen", "url": "https://www.instagram.com/annabmikkelsen" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
+    { "name": "TO BE FILLED OUT Interactive media" },
     { "name": "Neuromorphic Computing" },
     { "name": "Quantum Computing" },
     { "name": "Robotics" },
