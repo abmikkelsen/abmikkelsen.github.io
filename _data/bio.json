@@ -14,6 +14,10 @@
     ]
   },
   "interests": [
-    { "name": "interests" },
+    { "name": "remote sensing" },
+    { "name": "coastal processes" },
+    { "name": "Spatial data analysis" },
+    { "name": "climate change impacts and adaptation strategies" },
+    { "name": "GIS" },
   ]
 }
